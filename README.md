@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @anmly
-- 👀 I’m interested in Data Management especially Data Engineering
-- 🌱 I’m currently trying to learn many things especially best practices in Data Engineering and Python
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 I'll reach out to you instead
+I have had dreams that I let go. But now I have a new dream, and this is part of chasing that dream.
 
 <!---
 anmly/anmly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
